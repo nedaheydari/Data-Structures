@@ -1,27 +1,4 @@
-/* Timer.java
-   Here is a simple timing test framework.  This timer uses
-   your array-based list from project #1.
-   Alan Riggins, CS310, Summer 2016
-   
-   Here are the results/output on my computer:
-   
-Structure size: 100 Time: 3
-Structure size: 200 Time: 1
-Structure size: 400 Time: 2
-Structure size: 800 Time: 1
-Structure size: 1600 Time: 2
-Structure size: 3200 Time: 3
-Structure size: 6400 Time: 9
-Structure size: 12800 Time: 34
-Structure size: 25600 Time: 127
-Structure size: 51200 Time: 346
-Structure size: 102400 Time: 772
-Structure size: 204800 Time: 1621
-Structure size: 409600 Time: 3334
-Structure size: 819200 Time: 6784
-Structure size: 1638400 Time: 13612   
-  
-*/
+
 
 import java.util.Random;
 
