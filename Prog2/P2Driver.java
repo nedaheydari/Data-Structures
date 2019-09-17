@@ -1,9 +1,3 @@
-/*  P2Driver.java
-    A simple driver program for project #2.  Enable the implementation you 
-    want to test.  
-    CS310 Summer 2016
-    Alan Riggins
-    
 //////////////////////////////////////////////////////////////////////    
    ** Correct output is: **
     
